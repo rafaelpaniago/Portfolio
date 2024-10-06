@@ -1,15 +1,12 @@
 # Bem-vindo(a) ao meu Portfólio!
 
-## PROJETOS
-
-
 ## Python
 
 
 ## SQL
 
 
-## POWER BI
+## PENTAHO
 
 
 ## SOBRE
