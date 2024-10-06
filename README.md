@@ -15,5 +15,4 @@
 ## SOBRE
 Olá! Eu sou o Rafael Paniago.
 
-Possuo experiência profissional em análise de Dados, análise de SEO e estou concluindo minha formação em desenvolvimento backend em Python.
-Graduado em Comunicação e cursando minha segunda graduação em Banco de Dados.
+Atualmente trabalho como Analista de Dados. Na minha rotina eu trabalho com: Excel, power bi, sql, ETL com python e pentaho.
